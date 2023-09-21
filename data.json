@@ -9481,7 +9481,7 @@
         "narration": [
             "women your city is in the grip of a crime wave! volunteer for police duty!"
         ],
-        "img_id": "100bp_0_17_2",
+        "img_id": "1000_17_2",
         "dialog_bounding_boxes": [
             [
                 0.0,
@@ -9515,7 +9515,7 @@
         "narration": [
             "that night, at the concert"
         ],
-        "img_id": "100bp_0_3_3",
+        "img_id": "1000_3_3",
         "dialog_bounding_boxes": [
             [
                 130.0,
@@ -9574,7 +9574,7 @@
         "narration": [
             "plink - a plunk! plunk - a - pling! an"
         ],
-        "img_id": "100bp_0_5_1",
+        "img_id": "1000_5_1",
         "dialog_bounding_boxes": [
             [
                 0.0,
@@ -9608,7 +9608,7 @@
         "narration": [
             "as the string is plucked, the minstrel's banjo discharges a smal capsule that explodes into blinding brilliance..."
         ],
-        "img_id": "100bp_0_7_4",
+        "img_id": "1000_7_4",
         "dialog_bounding_boxes": [
             [
                 287.0,
@@ -10340,7 +10340,7 @@
             "<THANK thanks!> <YES-NO_QUESTION mind if i borrow this ?>"
         ],
         "narration": [],
-        "img_id": "101bp_0_33_4",
+        "img_id": "1010_33_4",
         "dialog_bounding_boxes": [
             [
                 56.0,
@@ -10377,7 +10377,7 @@
             "<INFORM he ' s comin ' down but its not cormac!>"
         ],
         "narration": [],
-        "img_id": "101bp_0_45_4",
+        "img_id": "1010_45_4",
         "dialog_bounding_boxes": [
             [
                 68.0,
@@ -11059,7 +11059,7 @@
             "<INFORM why, there's bing with marla!>"
         ],
         "narration": [],
-        "img_id": "102bp_0_31_4",
+        "img_id": "1020_31_4",
         "dialog_bounding_boxes": [
             [
                 26.0,
@@ -11096,7 +11096,7 @@
         "narration": [
             "the days began to speed by... days that were filled with romance for dotty and greg..."
         ],
-        "img_id": "102bp_0_5_0",
+        "img_id": "1020_5_0",
         "dialog_bounding_boxes": [
             [
                 0.0,
@@ -11931,7 +11931,7 @@
             "<INFORM and here ' s one debt that i ' ve got to pay back\t>"
         ],
         "narration": [],
-        "img_id": "103bp_0_25_2",
+        "img_id": "1030_25_2",
         "dialog_bounding_boxes": [
             [
                 9.0,
@@ -11956,7 +11956,7 @@
             "<POLITENESS_FORMULA sorry, gents-> <INFORM but nobody touches this mask!>"
         ],
         "narration": [],
-        "img_id": "103bp_0_6_1",
+        "img_id": "1030_6_1",
         "dialog_bounding_boxes": [
             [
                 110.0,
@@ -12725,7 +12725,7 @@
         "narration": [
             "wineed as hulda' s raucous croaking rose in shrill crescendo, and compassion give way to fear..."
         ],
-        "img_id": "107bp_0_43_1",
+        "img_id": "1070_43_1",
         "dialog_bounding_boxes": [
             [
                 489.0,
@@ -12892,7 +12892,7 @@
         "narration": [
             "only a few hours ago they brought me through those main gates -- as far as the world is concerned my story is a closed book..."
         ],
-        "img_id": "1bp_0_10_3",
+        "img_id": "10_10_3",
         "dialog_bounding_boxes": [],
         "narration_bounding_boxes": [
             [
@@ -12910,7 +12910,7 @@
             "<INFORM ideal for hiding prisoners .. for starving them humble. for preparing them to babble the secrets the red spies want to know>"
         ],
         "narration": [],
-        "img_id": "1bp_0_26_3",
+        "img_id": "10_26_3",
         "dialog_bounding_boxes": [
             [
                 129.0,
@@ -12933,7 +12933,7 @@
     {
         "dialog": [],
         "narration": [],
-        "img_id": "1bp_0_2_1",
+        "img_id": "10_2_1",
         "dialog_bounding_boxes": [],
         "narration_bounding_boxes": [],
         "face_bounding_boxes": [],
@@ -13938,7 +13938,7 @@
             "<FEEDBACK shaddop... you numbskull!> <INFORM i'll settle the yank's hash...> <INFORM after we give the rajah the works!>"
         ],
         "narration": [],
-        "img_id": "124bp_0_32_0",
+        "img_id": "1240_32_0",
         "dialog_bounding_boxes": [
             [
                 12.0,
@@ -15200,7 +15200,7 @@
         "narration": [
             "but as he lifts the glass to drink-"
         ],
-        "img_id": "141bp_0_5_3",
+        "img_id": "1410_5_3",
         "dialog_bounding_boxes": [
             [
                 69.0,
@@ -15560,7 +15560,7 @@
         "narration": [
             "not far off, lion boy holds back tawny as they near the fallen man."
         ],
-        "img_id": "144bp_0_45_2",
+        "img_id": "1440_45_2",
         "dialog_bounding_boxes": [
             [
                 201.0,
@@ -15787,7 +15787,7 @@
         "narration": [
             "nearby was camped a tribe of unfriendly red men.."
         ],
-        "img_id": "146bp_0_55_5",
+        "img_id": "1460_55_5",
         "dialog_bounding_boxes": [
             [
                 67.0,
@@ -16146,7 +16146,7 @@
         "narration": [
             "giant hands pull aside the imprisoning tentacles---"
         ],
-        "img_id": "149bp_0_48_1",
+        "img_id": "1490_48_1",
         "dialog_bounding_boxes": [
             [
                 48.0,
@@ -16436,7 +16436,7 @@
             "<INFORM some of my snaps are worth a lot of trouble!>"
         ],
         "narration": [],
-        "img_id": "15bp_0_35_1",
+        "img_id": "150_35_1",
         "dialog_bounding_boxes": [
             [
                 26.0,
@@ -17291,7 +17291,7 @@
             "<INFORM an indian!> <INFORM here in africa!>"
         ],
         "narration": [],
-        "img_id": "167bp_0_39_1",
+        "img_id": "1670_39_1",
         "dialog_bounding_boxes": [
             [
                 164.0,
@@ -17640,7 +17640,7 @@
             "<FEEDBACK yes,> <INFORM and if you want to keep this job you'll recover them!>"
         ],
         "narration": [],
-        "img_id": "17bp_0_54_0",
+        "img_id": "170_54_0",
         "dialog_bounding_boxes": [
             [
                 17.0,
@@ -18351,7 +18351,7 @@
             "<INFORM captain marvel jr!> <INFORM he needs help....> <BACKCHANNEL ohhhh!>"
         ],
         "narration": [],
-        "img_id": "181bp_0_19_1",
+        "img_id": "1810_19_1",
         "dialog_bounding_boxes": [
             [
                 298.0,
@@ -18377,7 +18377,7 @@
             "<INFORM it's hard to believe there aren't any sur-vivors!> <INFORM if there's any within earshot, a loud enough shout will bring them to us!>"
         ],
         "narration": [],
-        "img_id": "181bp_0_6_3",
+        "img_id": "1810_6_3",
         "dialog_bounding_boxes": [
             [
                 0.0,
@@ -18622,7 +18622,7 @@
             "<INFORM there's aimes-> <INFORM he'll be happy to see\tthis.>"
         ],
         "narration": [],
-        "img_id": "183bp_0_62_1",
+        "img_id": "1830_62_1",
         "dialog_bounding_boxes": [
             [
                 21.0,
@@ -18797,7 +18797,7 @@
         "narration": [
             "minute man smashes the secret nazi airport with the germans own bombs!"
         ],
-        "img_id": "185bp_0_47_2",
+        "img_id": "1850_47_2",
         "dialog_bounding_boxes": [
             [
                 439.0,
@@ -19452,7 +19452,7 @@
             "<INFORM we must get there in time!>"
         ],
         "narration": [],
-        "img_id": "192bp_0_63_4",
+        "img_id": "1920_63_4",
         "dialog_bounding_boxes": [
             [
                 18.0,
@@ -19713,7 +19713,7 @@
             "<INFORM we might as well do it.> <INFORM it'll pay expenses for our trip north.> <INFORM we'll leave the first thing in the morning.>"
         ],
         "narration": [],
-        "img_id": "195bp_0_9_0",
+        "img_id": "1950_9_0",
         "dialog_bounding_boxes": [
             [
                 0.0,
@@ -20132,7 +20132,7 @@
             "<INFORM  i don't understand it ..> <INFORM those bats were exterminated long ago ..> <INFORM we are all in danger unless we can destroy them!>"
         ],
         "narration": [],
-        "img_id": "199bp_0_59_3",
+        "img_id": "1990_59_3",
         "dialog_bounding_boxes": [
             [
                 5.0,
@@ -22784,7 +22784,7 @@
             "<WHY_QUESTION now what?>"
         ],
         "narration": [],
-        "img_id": "200bp_0_7_3",
+        "img_id": "2000_7_3",
         "dialog_bounding_boxes": [
             [
                 229.0,
@@ -23258,7 +23258,7 @@
         "narration": [
             "pr vate ."
         ],
-        "img_id": "208bp_0_100_1",
+        "img_id": "2080_100_1",
         "dialog_bounding_boxes": [],
         "narration_bounding_boxes": [],
         "face_bounding_boxes": [],
@@ -23503,7 +23503,7 @@
         "narration": [
             "for a moment it looks"
         ],
-        "img_id": "21bp_0_38_1",
+        "img_id": "210_38_1",
         "dialog_bounding_boxes": [
             [
                 277.0,
@@ -24241,7 +24241,7 @@
             "<INFORM shame on you kiddies> <INFORM - keeping the poor pup tied up ->"
         ],
         "narration": [],
-        "img_id": "217bp_0_14_0",
+        "img_id": "2170_14_0",
         "dialog_bounding_boxes": [
             [
                 15.0,
@@ -24367,7 +24367,7 @@
             "<INFORM  this is it, all right! >"
         ],
         "narration": [],
-        "img_id": "219bp_0_16_0",
+        "img_id": "2190_16_0",
         "dialog_bounding_boxes": [
             [
                 446.0,
@@ -24417,7 +24417,7 @@
             "<GREET welcome!> <INFORM a successful mission!>"
         ],
         "narration": [],
-        "img_id": "220bp_0_30_2",
+        "img_id": "2200_30_2",
         "dialog_bounding_boxes": [
             [
                 260.0,
@@ -24467,7 +24467,7 @@
             "<INFORM the answer is -> <FEEDBACK i can't!!> <BACKCHANNEL so-o-o...>"
         ],
         "narration": [],
-        "img_id": "22bp_0_62_4",
+        "img_id": "220_62_4",
         "dialog_bounding_boxes": [
             [
                 1056.0,
@@ -25674,7 +25674,7 @@
             "<ORDER grab the film, fingers,> <ORDER and take it over to the century film laboratory ...> <INFORM we'll check on this black owl!>"
         ],
         "narration": [],
-        "img_id": "235bp_0_30_4",
+        "img_id": "2350_30_4",
         "dialog_bounding_boxes": [
             [
                 8.0,
@@ -25723,7 +25723,7 @@
             "<BACKCHANNEL oomph!>"
         ],
         "narration": [],
-        "img_id": "235bp_0_37_2",
+        "img_id": "2350_37_2",
         "dialog_bounding_boxes": [
             [
                 34.0,
@@ -25903,7 +25903,7 @@
             "<INFORM he sure beat us with that whirlwind dash!\t>"
         ],
         "narration": [],
-        "img_id": "240bp_0_12_1",
+        "img_id": "2400_12_1",
         "dialog_bounding_boxes": [
             [
                 39.0,
@@ -26015,7 +26015,7 @@
             "<INFORM this is the best time i've ever seen made in a slalom!>"
         ],
         "narration": [],
-        "img_id": "24bp_0_56_5",
+        "img_id": "240_56_5",
         "dialog_bounding_boxes": [
             [
                 316.0,
@@ -26101,7 +26101,7 @@
     {
         "dialog": [],
         "narration": [],
-        "img_id": "242bp_0_47_0",
+        "img_id": "2420_47_0",
         "dialog_bounding_boxes": [],
         "narration_bounding_boxes": [],
         "face_bounding_boxes": [],
@@ -26113,7 +26113,7 @@
             "<FEEDBACK one moment, kief,> <INFORM we are discussing plans ..>"
         ],
         "narration": [],
-        "img_id": "242bp_0_4_2",
+        "img_id": "2420_4_2",
         "dialog_bounding_boxes": [
             [
                 0.0,
@@ -26686,7 +26686,7 @@
             "<BACKCHANNEL ugh!>"
         ],
         "narration": [],
-        "img_id": "250bp_0_41_0",
+        "img_id": "2500_41_0",
         "dialog_bounding_boxes": [
             [
                 150.0,
@@ -27704,7 +27704,7 @@
         "narration": [
             "with deadly aim. the marksman gits his difficult target..."
         ],
-        "img_id": "264bp_0_64_3",
+        "img_id": "2640_64_3",
         "dialog_bounding_boxes": [
             [
                 134.0,
@@ -28315,7 +28315,7 @@
             "<BACKCHANNEL now what?>"
         ],
         "narration": [],
-        "img_id": "276bp_0_28_4",
+        "img_id": "2760_28_4",
         "dialog_bounding_boxes": [
             [
                 54.0,
@@ -28840,7 +28840,7 @@
             "<FEEDBACK no thanks.> <INFORM and you'd better not either.> <INFORM it's against the school rules ><INFORM - and it's bad for you>"
         ],
         "narration": [],
-        "img_id": "283bp_0_28_2",
+        "img_id": "2830_28_2",
         "dialog_bounding_boxes": [
             [
                 11.0,
@@ -29346,7 +29346,7 @@
             "<ORDER listen ...> <GREET \"oh woe!> <INFORM is huge tlouble!> <INFORM connie an' big stooper in hoosygow 'cause bump-bang feller in gassy-wagon!> <POLITENESS_FORMULA please come help!> <INFORM velly humble me, connie\">"
         ],
         "narration": [],
-        "img_id": "291bp_0_1_1",
+        "img_id": "2910_1_1",
         "dialog_bounding_boxes": [
             [
                 31.0,
@@ -37001,7 +37001,7 @@
             "<INFORM and then ...>"
         ],
         "narration": [],
-        "img_id": "302bp_0_18_1",
+        "img_id": "3020_18_1",
         "dialog_bounding_boxes": [
             [
                 26.0,
@@ -37026,7 +37026,7 @@
             "<INFORM cause the sun's awful strong today!> <INFORM but now that ya're down there, there ' s no chance of ya gettin' sunburned!>"
         ],
         "narration": [],
-        "img_id": "302bp_0_29_4",
+        "img_id": "3020_29_4",
         "dialog_bounding_boxes": [
             [
                 6.0,
@@ -37196,7 +37196,7 @@
             "<BACKCHANNEL what...><BACKCHANNEL but we thought...>"
         ],
         "narration": [],
-        "img_id": "304bp_0_17_0",
+        "img_id": "3040_17_0",
         "dialog_bounding_boxes": [
             [
                 369.0,
@@ -37412,7 +37412,7 @@
             "<BACKCHANNEL oops ....> <POLITENESS_FORMULA sorry mister ..>"
         ],
         "narration": [],
-        "img_id": "305bp_0_30_1",
+        "img_id": "3050_30_1",
         "dialog_bounding_boxes": [
             [
                 42.0,
@@ -37437,7 +37437,7 @@
             "<INFORM let's try snoop mcgook he's the best detective in town,> <INFORM besides being the only one!>"
         ],
         "narration": [],
-        "img_id": "306bp_0_27_2",
+        "img_id": "3060_27_2",
         "dialog_bounding_boxes": [
             [
                 8.0,
@@ -38246,7 +38246,7 @@
             "<INFORM shore is a convenience workin' with sam bass!> <INFORM everybody's so scared of him,> <INFORM they just throw away their guns when they see him comin!> <BACKCHANNEL ho-ho!>"
         ],
         "narration": [],
-        "img_id": "321bp_0_14_2",
+        "img_id": "3210_14_2",
         "dialog_bounding_boxes": [
             [
                 3.0,
@@ -39057,7 +39057,7 @@
             "<INFORM jap planes arriving from our advance base!> <INFORM will surprise americans!>"
         ],
         "narration": [],
-        "img_id": "334bp_0_21_2",
+        "img_id": "3340_21_2",
         "dialog_bounding_boxes": [
             [
                 38.0,
@@ -39211,7 +39211,7 @@
             "<INFORM i believe you have something there.> <WHY_QUESTION but how are se we going get out out to sea, to this unchartered island?\t>"
         ],
         "narration": [],
-        "img_id": "335bp_0_12_4",
+        "img_id": "3350_12_4",
         "dialog_bounding_boxes": [
             [
                 4.0,
@@ -39662,7 +39662,7 @@
             "<BACKCHANNEL yippee!>"
         ],
         "narration": [],
-        "img_id": "344bp_0_7_3",
+        "img_id": "3440_7_3",
         "dialog_bounding_boxes": [
             [
                 63.0,
@@ -39737,7 +39737,7 @@
         "narration": [
             "meanwhile, aboard the gambling ship. \"silver queen\".."
         ],
-        "img_id": "345bp_0_3_4",
+        "img_id": "3450_3_4",
         "dialog_bounding_boxes": [
             [
                 9.0,
@@ -40581,7 +40581,7 @@
             "<BACKCHANNEL ooof!!>"
         ],
         "narration": [],
-        "img_id": "359bp_0_11_2",
+        "img_id": "3590_11_2",
         "dialog_bounding_boxes": [
             [
                 0.0,
@@ -41456,7 +41456,7 @@
             "<ORDER hold it_>"
         ],
         "narration": [],
-        "img_id": "37bp_0_28_0",
+        "img_id": "370_28_0",
         "dialog_bounding_boxes": [
             [
                 60.0,
@@ -41798,7 +41798,7 @@
             "<BACKCHANNEL ah,> <INFORM good and soapy.> <INFORM too ... full of bubbles!> <INFORM that's the way i like a bath!>"
         ],
         "narration": [],
-        "img_id": "376bp_0_40_3",
+        "img_id": "3760_40_3",
         "dialog_bounding_boxes": [
             [
                 11.0,
@@ -42707,7 +42707,7 @@
             "<FEEDBACK but he did say he was sorry, abdul!>"
         ],
         "narration": [],
-        "img_id": "386bp_0_22_3",
+        "img_id": "3860_22_3",
         "dialog_bounding_boxes": [
             [
                 33.0,
@@ -45858,7 +45858,7 @@
         "narration": [
             "sullavilk skates derby"
         ],
-        "img_id": "4bp_0_22_1",
+        "img_id": "40_22_1",
         "dialog_bounding_boxes": [
             [
                 154.0,
@@ -45891,7 +45891,7 @@
             "<FEEDBACK careful with that club junior!>"
         ],
         "narration": [],
-        "img_id": "41bp_0_7_2",
+        "img_id": "410_7_2",
         "dialog_bounding_boxes": [
             [
                 0.0,
@@ -46334,7 +46334,7 @@
             "<FEEDBACK yup--> <INFORM this question ought to get a rise out of him>"
         ],
         "narration": [],
-        "img_id": "49bp_0_29_4",
+        "img_id": "490_29_4",
         "dialog_bounding_boxes": [
             [
                 141.0,
@@ -47157,7 +47157,7 @@
             "<FEEDBACK i feel a little bit embarrassed riding on a horse that carries on a conversation\twith me!>"
         ],
         "narration": [],
-        "img_id": "60bp_0_49_1",
+        "img_id": "600_49_1",
         "dialog_bounding_boxes": [
             [
                 44.0,
@@ -48567,7 +48567,7 @@
             "<ORDER listen gran'papa...> <INFORM i have an idea\t>"
         ],
         "narration": [],
-        "img_id": "77bp_0_9_4",
+        "img_id": "770_9_4",
         "dialog_bounding_boxes": [
             [
                 9.0,
@@ -49286,7 +49286,7 @@
             "<BACKCHANNEL owww!>"
         ],
         "narration": [],
-        "img_id": "88bp_0_40_2",
+        "img_id": "880_40_2",
         "dialog_bounding_boxes": [
             [
                 5.0,
@@ -49405,7 +49405,7 @@
             "<FEEDBACK i like the way you talk, kid!> <INFORM you'll get your chance to show me!> <INFORM i'm goin' to send you out with one of my men!> <GREET hey, kramer!>"
         ],
         "narration": [],
-        "img_id": "90bp_0_29_3",
+        "img_id": "900_29_3",
         "dialog_bounding_boxes": [
             [
                 0.0,

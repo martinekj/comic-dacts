@@ -1,0 +1,24 @@
+name: comicorda
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.8
+  - ca-certificates=2023.7.22
+  - libffi=3.4.2
+  - libsqlite=3.43.0
+  - libunrar=6.2.11
+  - libzlib=1.2.13
+  - openssl=3.1.2
+  - pip=23.2.1
+  - python=3.9.18
+  - rarfile=4.0
+  - setuptools=68.2.2
+  - tk=8.6.12
+  - tzdata=2023c
+  - unrar=0.4
+  - wheel=0.41.2
+  - xz=5.2.6
+  - pip:
+      - numpy==1.26.0
+      - opencv-python==4.8.0.76
