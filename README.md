@@ -10,7 +10,10 @@ The original source of images: [https://obj.umiacs.umd.edu/comics/index.html]()
 
 [Download images](https://obj.umiacs.umd.edu/comics/raw_panel_images.tar.gz)
 
-JSON file with annotated Dialogue Acts: `data.json`
+JSON file with annotated Dialogue Acts: `data.json`. To filter out panels that contain at least one speech balloon use `"error_code": 0`. All possible values of this `error_code` item are as follows:
+ - `"error_code": 0` ==> at least one speech balloon
+ - `"error_code": 1` ==> neither dialog nor narration (just an image without text)
+ - `"error_code": 2` ==> Narration balloon present, but no dialog (no speech balloons)
 
 See example: `example.ipynb`
 
