@@ -45,7 +45,7 @@ raw_panel_images
       ...
      |---
 ```
-
-2. Run script `prepare_dataset.py` that downloads the second part of the dataset (panels with filename mask bp_<img_id>).
-3. Load `data.json` and check whether all 1438 images are available. We recommend to merge all 1438 images/panels into one folder.
-4. Run desired experiments.
+2. Prepare conda environment using `environment.yml`:  `conda env create -f environment.yml`
+3. Run script `prepare_dataset.py` that downloads the second part of the dataset (panels with filename mask bp_<img_id>).
+4. Load `data.json` and check whether all 1438 images are available. We recommend to merge all 1438 images/panels into one folder.
+5. Run desired experiments.
